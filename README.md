@@ -5,7 +5,7 @@ Essa é uma aplicação web de um site ficticio.
 ## Interface
 
 <div align="center">
-  <img src="img/image.png" alt="Imagem do Projeto" width="100">
+  <img src="img/image.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
